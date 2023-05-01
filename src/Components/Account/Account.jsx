@@ -9,7 +9,7 @@ const Account = () => {
 
         {
             account && 
-            <div className='font-normal  bg-white rounded-lg text-blue-500 p-4 absolute mt-12 shadow'>
+            <div className='font-normal z-50 bg-white rounded-lg text-blue-500 p-4 absolute mt-12 shadow'>
                 <li> ola fulano</li>
                 <li> editar conta</li>
                 <li> Sair</li>  
